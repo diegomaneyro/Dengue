@@ -1,7 +1,18 @@
 # Dengue y Zika en Argentina
 
-Casos de Dengue y Zika en Argentina 2022, registrados por provincia y departamento.
+Este repositorio contiene el código y los recursos utilizados en el proyecto de investigación sobre la incidencia del dengue y el Zika en Argentina. El objetivo de este proyecto es analizar los datos epidemiológicos y geoespaciales para comprender la propagación y los factores de riesgo de estas enfermedades en el país.
 
+## Contenido
+
+- [Datos](#requisitos)
+- [Documentacion](#documentacion)
+- [Modelo](#modelo)
+- [Licencia](#licencia)
+
+## Requisitos
+
+- Python 3.x
+- Bibliotecas de Python especificadas en el archivo `requirements.txt`
 
 ## Objetivos del Proyecto
 
@@ -9,45 +20,7 @@ Casos de Dengue y Zika en Argentina 2022, registrados por provincia y departamen
  - [Dashboar y reporte](https://github.com/matiassingers/awesome-readme)
  - [Modelo de Machine Learning](https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project)
 
+## Licencia
 
-## API Reference
-
-#### Get all items
-
-```http
-  GET /api/items
-```
-
-| Parameter | Type     | Description                |
-| :-------- | :------- | :------------------------- |
-| `api_key` | `string` | **Required**. Your API key |
-
-#### Get item
-
-```http
-  GET /api/items/${id}
-```
-
-| Parameter | Type     | Description                       |
-| :-------- | :------- | :-------------------------------- |
-| `id`      | `string` | **Required**. Id of item to fetch |
-
-#### Objetivo de la api:
-
-Querys por provincia, distrito y mes. retorna cantidad de casos.
-
-
-## Authors
-
-- [Diego Maneyro](https://www.github.com/octokatherine)
-
-
-## Deployment
-
-deploy de la api para las consultas desde IBM Cloud
-
-```bash
-  npm run deploy
-```
-
+Este proyecto se encuentra bajo la [Licencia MIT](LICENSE).
 
