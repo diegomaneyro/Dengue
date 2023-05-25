@@ -2,6 +2,7 @@
 
 <img src="recursos/dengue-1.jpg" alt="Texto alternativo" width="300" height="200">
 
+## Problematica
 El dengue y el Zika son enfermedades transmitidas por mosquitos que representan importantes problemas de salud pública en muchas partes del mundo, incluyendo Argentina. Aquí tienes una breve descripción de cada una de estas enfermedades:
 
 - Dengue: El dengue es una enfermedad viral transmitida por mosquitos del género Aedes, principalmente Aedes aegypti. Es endémico en áreas tropicales y subtropicales, y puede causar síntomas que van desde una fiebre leve hasta formas más graves que pueden llevar a complicaciones potencialmente mortales, como el dengue grave o el dengue hemorrágico. El dengue ha experimentado un aumento significativo en los últimos años y se considera un problema de salud pública en Argentina.
