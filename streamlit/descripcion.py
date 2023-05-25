@@ -19,3 +19,11 @@ Estoy emocionado de compartir contigo la documentación completa del proyecto De
 
 Disfruta explorando la documentación y no dudes en contactarme si tienes alguna pregunta o sugerencia: diegomaneyro@gmail.com
 """)
+# Ruta del archivo PDF que deseas descargar
+    ruta_pdf = "../documentacion/documentacion.pdf"
+
+    # Botón de descarga del archivo PDF
+    if st.button("Descargar Documentacion"):
+        with open(ruta_pdf, "rb") as f:
+            bytes_pdf = f.read()
+        st.download_button(label="Iniciar descaga", data=bytes_pdf, file_name="Documentacion.pdf", mime="application/pdf")
