@@ -11,7 +11,7 @@ El dengue y el Zika son enfermedades transmitidas por mosquitos que representan 
 
 Ambas enfermedades son un desafío para la salud pública debido a su propagación rápida, su impacto en la salud de las personas y las complicaciones que pueden surgir. Comprender la incidencia, los factores de riesgo y las estrategias de prevención es fundamental para abordar eficazmente el dengue y el Zika en Argentina y en otras regiones afectadas.
 
-# Repositorio
+## Repositorio
 Este repositorio contiene el código y los recursos utilizados en el proyecto de investigación sobre la incidencia del dengue y el Zika en Argentina. El objetivo de este proyecto es analizar los datos epidemiológicos y geoespaciales para comprender la propagación y los factores de riesgo de estas enfermedades en el país.
 
 ## Contenido
