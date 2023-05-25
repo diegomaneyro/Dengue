@@ -20,9 +20,9 @@ Este repositorio contiene el código y los recursos utilizados en el proyecto de
 - [Documentacion](https://diegomaneyro-denguezikaargentina-documentacionapp-c2xrlg.streamlit.app/)
 - [Modelo](#modelo)
 
-## Requisitos
+## Deploy
 
-- Python 3.x
+- Streamlit
 - Bibliotecas de Python especificadas en el archivo `requirements.txt`
 
 ## Objetivos del Proyecto
