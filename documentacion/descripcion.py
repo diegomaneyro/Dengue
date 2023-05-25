@@ -4,7 +4,7 @@ def pagina_descripcion():
     st.markdown("<h3>Bienvenido a la documentación</h3>", unsafe_allow_html=True)
 
     # Insertar imagen
-    st.image("https://github.com/diegomaneyro/DengueZikaArgentina/blob/main/recursos/dengue-2.jpg", caption="DengueZikaArgentina")
+    st.image("/recursos/dengue-2.jpg", caption="DengueZikaArgentina")
 
     st.write("""       
 
