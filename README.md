@@ -1,5 +1,5 @@
- <p align="center"># Dengue y Zika en Argentina</p>
- 
+ <h1 style="text-align: center; font-size: 36px;">Dengue y Zika en Argentina</h1>
+
 ![Logo de la compañía](recursos/dengue-1.jpg)
 
 El dengue y el Zika son enfermedades transmitidas por mosquitos que representan importantes problemas de salud pública en muchas partes del mundo, incluyendo Argentina. Aquí tienes una breve descripción de cada una de estas enfermedades:
@@ -16,9 +16,8 @@ Este repositorio contiene el código y los recursos utilizados en el proyecto de
 ## Contenido
 
 - [Datos](#requisitos)
-- [Documentacion](#documentacion)
+- [Documentacion](https://diegomaneyro-denguezikaargentina-documentacionapp-c2xrlg.streamlit.app/)
 - [Modelo](#modelo)
-- [Licencia](#licencia)
 
 ## Requisitos
 
@@ -33,5 +32,5 @@ Este repositorio contiene el código y los recursos utilizados en el proyecto de
 
 ## Licencia
 
-Este proyecto se encuentra bajo la [Licencia MIT](LICENSE).
+Este proyecto se distribuye bajo la Licencia MIT. Puedes encontrar los términos y condiciones de la licencia en [este enlace](https://opensource.org/licenses/MIT).
 
