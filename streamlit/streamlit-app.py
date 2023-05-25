@@ -18,7 +18,8 @@ def main():
         descripcion.pagina_descripcion()
     elif page == "Documentación Completa":
         documentacion.pagina_documentacion()
- 
+
+    
 
 if __name__ == "__main__":
     main()
