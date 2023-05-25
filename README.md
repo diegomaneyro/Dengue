@@ -1,6 +1,6 @@
  <h1 style="text-align: center; font-size: 36px;">Dengue y Zika en Argentina</h1>
 
-![Logo de la compañía](recursos/dengue-1.jpg)
+<img src="recursos/dengue-1.jpg" alt="Texto alternativo" width="300" height="200">
 
 El dengue y el Zika son enfermedades transmitidas por mosquitos que representan importantes problemas de salud pública en muchas partes del mundo, incluyendo Argentina. Aquí tienes una breve descripción de cada una de estas enfermedades:
 
