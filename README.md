@@ -3,9 +3,8 @@
 <img src="recursos/dengue-1.jpg" alt="Texto alternativo" width="300" height="200">
 
 ## Video
-<video src="recursos/video.mp4" controls>
-  Tu navegador no soporta la etiqueta de video.
-</video>
+[![Video de Bienvenida](https://i9.ytimg.com/vi_webp/KMYOiPgNX7c/mqdefault.webp?v=6470fc7c&sqp=CNT3w6MG&rs=AOn4CLCgkyDf9uJbCF5PBBlcG7A8PkobYQ)](https://youtu.be/KMYOiPgNX7c)
+
 
 
 ## Problematica
@@ -30,6 +29,7 @@ Este repositorio contiene el código y los recursos utilizados en el proyecto de
 - [Datos](#requisitos)
 - [Documentacion](https://diegomaneyro-denguezikaargentina-documentacionapp-c2xrlg.streamlit.app/)
 - [Modelo](#modelo)
+
 
 ## Deploy
 
