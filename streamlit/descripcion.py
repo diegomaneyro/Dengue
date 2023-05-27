@@ -5,15 +5,8 @@ def pagina_descripcion():
 
     # Insertar imagen
     st.image("recursos/dengue-2.jpg")
-    st.markdown("<h3>Introducción: Alcance y Objetivos</h3>", unsafe_allow_html=True)
-
-    # Insertar imagen
-    st.image("recursos/dengue-2.jpg", caption="DengueZikaArgentina")
-
-
-    st.write("""       
-
- Este proyecto se enfoca en realizar un análisis de los datos, filtrando por zona y fecha los casos documentados de contagio, para luego ofrecer una prediccion para el año siguiente teniendo en cuenta la curva actual de casos.
+    st.write("""     
+Este proyecto se enfoca en realizar un análisis de los datos, filtrando por zona y fecha los casos documentados de contagio, para luego ofrecer una prediccion para el año siguiente teniendo en cuenta la curva actual de casos.
 
 A través de análisis exhaustivos, investigación y desarrollo de soluciones, se busca principalmente dar acceso simple y legible a la informacion de casos para un rapido analisis y comprension de la problematica por zonas.
 
