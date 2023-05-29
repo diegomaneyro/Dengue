@@ -13,7 +13,7 @@ def pagina_analisis():
     #cargar datos desde csv
     ruta_datos ="../datos/limpieza/eda/dengue-zika-clean.csv" 
     
-    df = pd.read_csv(ruta_datos, encoding='latin-1', sep=";")  
+    df = pd.read_csv(ruta_datos)  
 
     #mostrar primeras filas del dataframe
     if st.button('Mostrar primeras filas del DataFrame'):
