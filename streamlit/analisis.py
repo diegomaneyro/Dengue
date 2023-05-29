@@ -11,13 +11,13 @@ def pagina_analisis():
     """)
     
     #cargar datos desde csv
-    ruta_datos ="datos/limpieza/eda/dengue-zika-clean.csv" 
+    ruta_datos ="../datos/limpieza/eda/dengue-zika-clean.csv" 
     
     df = pd.read_csv(ruta_datos, encoding='latin-1', sep=";")  
 
     #mostrar primeras filas del dataframe
     if st.button('Mostrar primeras filas del DataFrame'):
-        st.write(df.head())
+        st.dataframe(df.head())
     
     #mostrar grafica de casos por provincia
     if st.button('Mostrar casos por provincia'):
