@@ -31,9 +31,9 @@ Este repositorio contiene el código y los recursos utilizados en el proyecto de
 
 ## Contenido
 
-- [Datos](#requisitos)
+- [Datos](https://github.com/diegomaneyro/DengueZikaArgentina/tree/main/datos)
 - [Documentacion](https://diegomaneyro-denguezikaargentina-documentacionapp-c2xrlg.streamlit.app/)
-- [Modelo](#modelo)
+- [Modelo](https://github.com/diegomaneyro/DengueZikaArgentina/tree/main/modelo)
 
 
 ## Deploy
@@ -43,7 +43,7 @@ Este repositorio contiene el código y los recursos utilizados en el proyecto de
 
 ## Objetivos del Proyecto
 
- - [ETL y EDA de los datasets](https://awesomeopensource.com/project/elangosundar/awesome-README-templates)
+ - [ETL y EDA de los datasets](https://github.com/diegomaneyro/DengueZikaArgentina/tree/main/datos/limpieza)
  - [Dashboar y reporte](https://github.com/matiassingers/awesome-readme)
  - [Modelo de Machine Learning](https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project)
 
