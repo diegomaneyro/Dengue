@@ -1,4 +1,4 @@
-name: Ejecución cada 30 días
+name: Deploy
 
 on:
   schedule:
