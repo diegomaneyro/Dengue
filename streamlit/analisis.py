@@ -11,7 +11,7 @@ def pagina_analisis():
     """)
     
     #cargar datos desde csv
-    ruta_datos ="../datos/limpieza/eda/dengue-zika-clean.csv" 
+    ruta_datos = "datos/limpieza/eda/dengue-zika-clean.csv" 
     
     df = pd.read_csv(ruta_datos)  
 
