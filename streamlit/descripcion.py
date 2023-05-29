@@ -4,12 +4,9 @@ def pagina_descripcion():
     st.markdown("<h3>Dengue y Zika en Argentina</h3>", unsafe_allow_html=True)
 
     # Insertar imagen
-    st.image("../recursos/dengue-2.jpg")
-
-
-    st.write("""       
-
- Este proyecto se enfoca en realizar un análisis de los datos, filtrando por zona y fecha los casos documentados de contagio, para luego ofrecer una prediccion para el año siguiente teniendo en cuenta la curva actual de casos.
+    st.image("recursos/dengue-2.jpg")
+    st.write("""     
+Este proyecto se enfoca en realizar un análisis de los datos, filtrando por zona y fecha los casos documentados de contagio, para luego ofrecer una prediccion para el año siguiente teniendo en cuenta la curva actual de casos.
 
 A través de análisis exhaustivos, investigación y desarrollo de soluciones, se busca principalmente dar acceso simple y legible a la informacion de casos para un rapido analisis y comprension de la problematica por zonas.
 
@@ -19,3 +16,12 @@ Estoy emocionado de compartir contigo la documentación completa del proyecto De
 
 Disfruta explorando la documentación y no dudes en contactarme si tienes alguna pregunta o sugerencia: diegomaneyro@gmail.com
 """)
+# Ruta del archivo PDF que deseas descargar
+    ruta_pdf = "documentacion/documentacion.pdf"
+
+    # Botón de descarga del archivo PDF
+    if st.button("Descargar Documentacion"):
+        with open(ruta_pdf, "rb") as f:
+            bytes_pdf = f.read()
+        st.download_button(label="Iniciar descaga", data=bytes_pdf, file_name="Documentacion.pdf", mime="application/pdf")
+
