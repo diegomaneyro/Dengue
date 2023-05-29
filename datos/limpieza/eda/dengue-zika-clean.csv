@@ -1,0 +1,294 @@
+provincia,localidad,cantidad_casos,evento,grupo_etario,semanas_epidemiologicas,año
+CABA,CABA,1,Dengue,De 45 a 65 años,8,2022
+CABA,CABA,1,Dengue,De 20 a 24 años,9,2022
+CABA,CABA,1,Dengue,De 35 a 44 años,16,2022
+CABA,CABA,1,Dengue,De 10 a 14 años,49,2022
+CABA,CABA,1,Dengue,De 35 a 44 años,48,2022
+CABA,CABA,1,Dengue,De 45 a 65 años,48,2022
+CABA,CABA,2,Dengue,De 45 a 65 años,18,2022
+CABA,CABA,1,Dengue,De 45 a 65 años,48,2022
+Buenos Aires,Almirante Brown,1,Dengue,De 45 a 65 años,14,2022
+Buenos Aires,Ensenada,1,Dengue,De 25 a 34 años,17,2022
+Buenos Aires,Ezeiza,1,Dengue,De 25 a 34 años,32,2022
+Buenos Aires,General San Martín,1,Dengue,De 5 a 9 años,40,2022
+Buenos Aires,Ituzaingó,1,Dengue,De 45 a 65 años,10,2022
+Buenos Aires,Ituzaingó,1,Dengue,Mayores de 65 años,11,2022
+Buenos Aires,La Matanza,1,Dengue,De 10 a 14 años,17,2022
+Buenos Aires,La Matanza,1,Dengue,De 10 a 14 años,7,2022
+Buenos Aires,La Matanza,2,Dengue,De 10 a 14 años,8,2022
+Buenos Aires,La Matanza,2,Dengue,De 10 a 14 años,9,2022
+Buenos Aires,La Matanza,1,Dengue,De 10 a 14 años,10,2022
+Buenos Aires,La Matanza,1,Dengue,De 10 a 14 años,13,2022
+Buenos Aires,La Matanza,2,Dengue,De 10 a 14 años,14,2022
+Buenos Aires,La Matanza,2,Dengue,De 15 a 19 años,9,2022
+Buenos Aires,La Matanza,2,Dengue,De 15 a 19 años,10,2022
+Buenos Aires,La Matanza,2,Dengue,De 15 a 19 años,12,2022
+Buenos Aires,La Matanza,3,Dengue,De 15 a 19 años,13,2022
+Buenos Aires,La Matanza,3,Dengue,De 15 a 19 años,15,2022
+Buenos Aires,La Matanza,2,Dengue,De 15 a 19 años,16,2022
+Buenos Aires,La Matanza,2,Dengue,De 15 a 19 años,17,2022
+Buenos Aires,La Matanza,1,Dengue,De 15 a 19 años,20,2022
+Buenos Aires,La Matanza,1,Dengue,De 2 a 4 años,14,2022
+Buenos Aires,La Matanza,1,Dengue,De 20 a 24 años,10,2022
+Buenos Aires,La Matanza,1,Dengue,De 20 a 24 años,11,2022
+Buenos Aires,La Matanza,2,Dengue,De 20 a 24 años,12,2022
+Buenos Aires,La Matanza,3,Dengue,De 20 a 24 años,15,2022
+Buenos Aires,La Matanza,1,Dengue,De 20 a 24 años,16,2022
+Buenos Aires,La Matanza,1,Dengue,De 20 a 24 años,17,2022
+Buenos Aires,La Matanza,2,Dengue,De 20 a 24 años,19,2022
+Buenos Aires,La Matanza,1,Dengue,De 25 a 34 años,7,2022
+Buenos Aires,La Matanza,1,Dengue,De 25 a 34 años,8,2022
+Buenos Aires,La Matanza,1,Dengue,De 25 a 34 años,10,2022
+Buenos Aires,La Matanza,1,Dengue,De 25 a 34 años,11,2022
+Buenos Aires,La Matanza,2,Dengue,De 25 a 34 años,12,2022
+Buenos Aires,La Matanza,6,Dengue,De 25 a 34 años,14,2022
+Buenos Aires,La Matanza,2,Dengue,De 25 a 34 años,15,2022
+Buenos Aires,La Matanza,2,Dengue,De 25 a 34 años,16,2022
+Buenos Aires,La Matanza,2,Dengue,De 25 a 34 años,18,2022
+Buenos Aires,La Matanza,1,Dengue,De 35 a 44 años,4,2022
+Buenos Aires,La Matanza,1,Dengue,De 35 a 44 años,7,2022
+Buenos Aires,La Matanza,1,Dengue,De 35 a 44 años,8,2022
+Buenos Aires,La Matanza,1,Dengue,De 35 a 44 años,9,2022
+Buenos Aires,La Matanza,3,Dengue,De 35 a 44 años,10,2022
+Buenos Aires,La Matanza,1,Dengue,De 35 a 44 años,12,2022
+Buenos Aires,La Matanza,2,Dengue,De 35 a 44 años,13,2022
+Buenos Aires,La Matanza,6,Dengue,De 35 a 44 años,14,2022
+Buenos Aires,La Matanza,4,Dengue,De 35 a 44 años,15,2022
+Buenos Aires,La Matanza,2,Dengue,De 35 a 44 años,16,2022
+Buenos Aires,La Matanza,2,Dengue,De 35 a 44 años,17,2022
+Buenos Aires,La Matanza,1,Dengue,De 35 a 44 años,20,2022
+Buenos Aires,La Matanza,1,Dengue,De 45 a 65 años,4,2022
+Buenos Aires,La Matanza,1,Dengue,De 45 a 65 años,7,2022
+Buenos Aires,La Matanza,1,Dengue,De 45 a 65 años,8,2022
+Buenos Aires,La Matanza,3,Dengue,De 45 a 65 años,9,2022
+Buenos Aires,La Matanza,4,Dengue,De 45 a 65 años,11,2022
+Buenos Aires,La Matanza,3,Dengue,De 45 a 65 años,12,2022
+Buenos Aires,La Matanza,4,Dengue,De 45 a 65 años,13,2022
+Buenos Aires,La Matanza,2,Dengue,De 45 a 65 años,14,2022
+Buenos Aires,La Matanza,4,Dengue,De 45 a 65 años,15,2022
+Buenos Aires,La Matanza,5,Dengue,De 45 a 65 años,16,2022
+Buenos Aires,La Matanza,3,Dengue,De 45 a 65 años,17,2022
+Buenos Aires,La Matanza,3,Dengue,De 45 a 65 años,18,2022
+Buenos Aires,La Matanza,1,Dengue,De 45 a 65 años,19,2022
+Buenos Aires,La Matanza,1,Dengue,De 5 a 9 años,7,2022
+Buenos Aires,La Matanza,1,Dengue,De 5 a 9 años,10,2022
+Buenos Aires,La Matanza,1,Dengue,De 5 a 9 años,13,2022
+Buenos Aires,La Matanza,1,Dengue,De 5 a 9 años,14,2022
+Buenos Aires,La Matanza,1,Dengue,Mayores de 65 años,8,2022
+Buenos Aires,La Matanza,1,Dengue,Mayores de 65 años,11,2022
+Buenos Aires,La Matanza,2,Dengue,Mayores de 65 años,14,2022
+Buenos Aires,La Matanza,2,Dengue,Mayores de 65 años,16,2022
+Buenos Aires,La Matanza,2,Dengue,Mayores de 65 años,17,2022
+Buenos Aires,La Matanza,1,Dengue,Mayores de 65 años,20,2022
+Buenos Aires,Lanús,1,Dengue,De 20 a 24 años,20,2022
+Buenos Aires,Lomas de Zamora,1,Dengue,De 45 a 65 años,14,2022
+Buenos Aires,Merlo,1,Dengue,De 45 a 65 años,15,2022
+Buenos Aires,Morón,1,Dengue,De 10 a 14 años,14,2022
+Buenos Aires,Morón,1,Dengue,De 10 a 14 años,17,2022
+Buenos Aires,Morón,2,Dengue,De 20 a 24 años,17,2022
+Buenos Aires,Morón,1,Dengue,De 25 a 34 años,13,2022
+Buenos Aires,Morón,1,Dengue,De 25 a 34 años,19,2022
+Buenos Aires,Morón,2,Dengue,De 35 a 44 años,13,2022
+Buenos Aires,Morón,1,Dengue,De 35 a 44 años,17,2022
+Buenos Aires,Morón,1,Dengue,De 45 a 65 años,15,2022
+Buenos Aires,San Fernando,1,Dengue,De 45 a 65 años,10,2022
+Catamarca,Capital,1,Dengue,De 45 a 65 años,4,2022
+Catamarca,La Paz,1,Dengue,De 45 a 65 años,12,2022
+Córdoba,Capital,1,Dengue,De 20 a 24 años,21,2022
+Córdoba,Capital,1,Dengue,De 20 a 24 años,48,2022
+Córdoba,Capital,1,Dengue,De 25 a 34 años,13,2022
+Córdoba,Capital,1,Dengue,De 25 a 34 años,48,2022
+Córdoba,Capital,1,Dengue,De 45 a 65 años,50,2022
+Córdoba,Colón,1,Dengue,De 20 a 24 años,16,2022
+Córdoba,Colón,1,Dengue,De 35 a 44 años,17,2022
+Córdoba,Santa María,1,Dengue,De 35 a 44 años,40,2022
+Corrientes,Capital,1,Dengue,De 35 a 44 años,31,2022
+Mendoza,Godoy Cruz,1,Dengue,De 45 a 65 años,41,2022
+Mendoza,Junín,1,Dengue,De 25 a 34 años,44,2022
+Mendoza,Las Heras,1,Dengue,De 35 a 44 años,11,2022
+Misiones,Guaraní,1,Dengue,De 25 a 34 años,19,2022
+Salta,Capital,1,Dengue,De 45 a 65 años,16,2022
+Salta,Grl. José de San Martín,1,Dengue,De 10 a 14 años,6,2022
+Salta,Grl. José de San Martín,1,Dengue,De 10 a 14 años,10,2022
+Salta,Grl. José de San Martín,5,Dengue,De 10 a 14 años,11,2022
+Salta,Grl. José de San Martín,4,Dengue,De 10 a 14 años,12,2022
+Salta,Grl. José de San Martín,3,Dengue,De 10 a 14 años,13,2022
+Salta,Grl. José de San Martín,10,Dengue,De 10 a 14 años,14,2022
+Salta,Grl. José de San Martín,8,Dengue,De 10 a 14 años,15,2022
+Salta,Grl. José de San Martín,9,Dengue,De 10 a 14 años,16,2022
+Salta,Grl. José de San Martín,10,Dengue,De 10 a 14 años,17,2022
+Salta,Grl. José de San Martín,4,Dengue,De 10 a 14 años,18,2022
+Salta,Grl. José de San Martín,4,Dengue,De 10 a 14 años,19,2022
+Salta,Grl. José de San Martín,3,Dengue,De 10 a 14 años,20,2022
+Salta,Grl. José de San Martín,1,Dengue,De 10 a 14 años,21,2022
+Salta,Grl. José de San Martín,1,Dengue,De 10 a 14 años,22,2022
+Salta,Grl. José de San Martín,1,Dengue,De 13 a 24 meses,16,2022
+Salta,Grl. José de San Martín,1,Dengue,De 13 a 24 meses,17,2022
+Salta,Grl. José de San Martín,2,Dengue,De 15 a 19 años,10,2022
+Salta,Grl. José de San Martín,2,Dengue,De 15 a 19 años,11,2022
+Salta,Grl. José de San Martín,2,Dengue,De 15 a 19 años,12,2022
+Salta,Grl. José de San Martín,2,Dengue,De 15 a 19 años,13,2022
+Salta,Grl. José de San Martín,6,Dengue,De 15 a 19 años,14,2022
+Salta,Grl. José de San Martín,9,Dengue,De 15 a 19 años,15,2022
+Salta,Grl. José de San Martín,10,Dengue,De 15 a 19 años,16,2022
+Salta,Grl. José de San Martín,6,Dengue,De 15 a 19 años,17,2022
+Salta,Grl. José de San Martín,5,Dengue,De 15 a 19 años,18,2022
+Salta,Grl. José de San Martín,4,Dengue,De 15 a 19 años,19,2022
+Salta,Grl. José de San Martín,1,Dengue,De 15 a 19 años,20,2022
+Salta,Grl. José de San Martín,3,Dengue,De 2 a 4 años,14,2022
+Salta,Grl. José de San Martín,1,Dengue,De 2 a 4 años,15,2022
+Salta,Grl. José de San Martín,2,Dengue,De 2 a 4 años,16,2022
+Salta,Grl. José de San Martín,4,Dengue,De 2 a 4 años,17,2022
+Salta,Grl. José de San Martín,2,Dengue,De 2 a 4 años,18,2022
+Salta,Grl. José de San Martín,1,Dengue,De 2 a 4 años,19,2022
+Salta,Grl. José de San Martín,1,Dengue,De 20 a 24 años,5,2022
+Salta,Grl. José de San Martín,3,Dengue,De 20 a 24 años,10,2022
+Salta,Grl. José de San Martín,3,Dengue,De 20 a 24 años,12,2022
+Salta,Grl. José de San Martín,2,Dengue,De 20 a 24 años,13,2022
+Salta,Grl. José de San Martín,11,Dengue,De 20 a 24 años,14,2022
+Salta,Grl. José de San Martín,9,Dengue,De 20 a 24 años,15,2022
+Salta,Grl. José de San Martín,8,Dengue,De 20 a 24 años,16,2022
+Salta,Grl. José de San Martín,3,Dengue,De 20 a 24 años,17,2022
+Salta,Grl. José de San Martín,6,Dengue,De 20 a 24 años,18,2022
+Salta,Grl. José de San Martín,8,Dengue,De 20 a 24 años,19,2022
+Salta,Grl. José de San Martín,3,Dengue,De 20 a 24 años,20,2022
+Salta,Grl. José de San Martín,3,Dengue,De 20 a 24 años,21,2022
+Salta,Grl. José de San Martín,1,Dengue,De 25 a 34 años,4,2022
+Salta,Grl. José de San Martín,1,Dengue,De 25 a 34 años,7,2022
+Salta,Grl. José de San Martín,4,Dengue,De 25 a 34 años,11,2022
+Salta,Grl. José de San Martín,7,Dengue,De 25 a 34 años,12,2022
+Salta,Grl. José de San Martín,7,Dengue,De 25 a 34 años,13,2022
+Salta,Grl. José de San Martín,14,Dengue,De 25 a 34 años,14,2022
+Salta,Grl. José de San Martín,11,Dengue,De 25 a 34 años,15,2022
+Salta,Grl. José de San Martín,13,Dengue,De 25 a 34 años,16,2022
+Salta,Grl. José de San Martín,15,Dengue,De 25 a 34 años,17,2022
+Salta,Grl. José de San Martín,13,Dengue,De 25 a 34 años,18,2022
+Salta,Grl. José de San Martín,4,Dengue,De 25 a 34 años,19,2022
+Salta,Grl. José de San Martín,4,Dengue,De 25 a 34 años,20,2022
+Salta,Grl. José de San Martín,5,Dengue,De 25 a 34 años,21,2022
+Salta,Grl. José de San Martín,1,Dengue,De 25 a 34 años,22,2022
+Salta,Grl. José de San Martín,1,Dengue,De 35 a 44 años,5,2022
+Salta,Grl. José de San Martín,1,Dengue,De 35 a 44 años,9,2022
+Salta,Grl. José de San Martín,1,Dengue,De 35 a 44 años,10,2022
+Salta,Grl. José de San Martín,11,Dengue,De 35 a 44 años,12,2022
+Salta,Grl. José de San Martín,8,Dengue,De 35 a 44 años,13,2022
+Salta,Grl. José de San Martín,11,Dengue,De 35 a 44 años,14,2022
+Salta,Grl. José de San Martín,9,Dengue,De 35 a 44 años,15,2022
+Salta,Grl. José de San Martín,19,Dengue,De 35 a 44 años,16,2022
+Salta,Grl. José de San Martín,13,Dengue,De 35 a 44 años,17,2022
+Salta,Grl. José de San Martín,9,Dengue,De 35 a 44 años,18,2022
+Salta,Grl. José de San Martín,4,Dengue,De 35 a 44 años,19,2022
+Salta,Grl. José de San Martín,1,Dengue,De 35 a 44 años,20,2022
+Salta,Grl. José de San Martín,4,Dengue,De 35 a 44 años,21,2022
+Salta,Grl. José de San Martín,1,Dengue,De 35 a 44 años,22,2022
+Salta,Grl. José de San Martín,1,Dengue,De 45 a 65 años,5,2022
+Salta,Grl. José de San Martín,1,Dengue,De 45 a 65 años,8,2022
+Salta,Grl. José de San Martín,2,Dengue,De 45 a 65 años,10,2022
+Salta,Grl. José de San Martín,10,Dengue,De 45 a 65 años,11,2022
+Salta,Grl. José de San Martín,4,Dengue,De 45 a 65 años,12,2022
+Salta,Grl. José de San Martín,6,Dengue,De 45 a 65 años,13,2022
+Salta,Grl. José de San Martín,10,Dengue,De 45 a 65 años,14,2022
+Salta,Grl. José de San Martín,16,Dengue,De 45 a 65 años,15,2022
+Salta,Grl. José de San Martín,14,Dengue,De 45 a 65 años,16,2022
+Salta,Grl. José de San Martín,11,Dengue,De 45 a 65 años,17,2022
+Salta,Grl. José de San Martín,12,Dengue,De 45 a 65 años,18,2022
+Salta,Grl. José de San Martín,3,Dengue,De 45 a 65 años,19,2022
+Salta,Grl. José de San Martín,1,Dengue,De 45 a 65 años,20,2022
+Salta,Grl. José de San Martín,3,Dengue,De 45 a 65 años,21,2022
+Salta,Grl. José de San Martín,1,Dengue,De 45 a 65 años,22,2022
+Salta,Grl. José de San Martín,1,Dengue,De 5 a 9 años,4,2022
+Salta,Grl. José de San Martín,1,Dengue,De 5 a 9 años,11,2022
+Salta,Grl. José de San Martín,4,Dengue,De 5 a 9 años,12,2022
+Salta,Grl. José de San Martín,7,Dengue,De 5 a 9 años,13,2022
+Salta,Grl. José de San Martín,7,Dengue,De 5 a 9 años,14,2022
+Salta,Grl. José de San Martín,5,Dengue,De 5 a 9 años,15,2022
+Salta,Grl. José de San Martín,4,Dengue,De 5 a 9 años,16,2022
+Salta,Grl. José de San Martín,7,Dengue,De 5 a 9 años,17,2022
+Salta,Grl. José de San Martín,5,Dengue,De 5 a 9 años,18,2022
+Salta,Grl. José de San Martín,2,Dengue,De 5 a 9 años,19,2022
+Salta,Grl. José de San Martín,1,Dengue,Mayores de 65 años,12,2022
+Salta,Grl. José de San Martín,1,Dengue,Mayores de 65 años,13,2022
+Salta,Grl. José de San Martín,4,Dengue,Mayores de 65 años,14,2022
+Salta,Grl. José de San Martín,2,Dengue,Mayores de 65 años,15,2022
+Salta,Grl. José de San Martín,2,Dengue,Mayores de 65 años,16,2022
+Salta,Grl. José de San Martín,3,Dengue,Mayores de 65 años,17,2022
+Salta,Grl. José de San Martín,3,Dengue,Mayores de 65 años,18,2022
+Salta,Grl. José de San Martín,1,Dengue,Mayores de 65 años,19,2022
+Salta,Grl. José de San Martín,1,Dengue,Mayores de 65 años,20,2022
+Salta,Grl. José de San Martín,1,Dengue,Posneonato (29 hasta 365 dias),12,2022
+Salta,Grl. José de San Martín,1,Dengue,Posneonato (29 hasta 365 dias),17,2022
+Salta,Orán,1,Dengue,De 10 a 14 años,16,2022
+Salta,Orán,1,Dengue,De 20 a 24 años,19,2022
+Salta,Orán,1,Dengue,De 25 a 34 años,13,2022
+Salta,Orán,1,Dengue,De 25 a 34 años,14,2022
+Salta,Orán,2,Dengue,De 25 a 34 años,17,2022
+Salta,Orán,1,Dengue,De 25 a 34 años,20,2022
+Salta,Orán,1,Dengue,De 25 a 34 años,21,2022
+Salta,Orán,1,Dengue,De 25 a 34 años,23,2022
+Salta,Orán,1,Dengue,De 45 a 65 años,14,2022
+Salta,Orán,1,Dengue,De 45 a 65 años,19,2022
+Salta,Orán,1,Dengue,De 45 a 65 años,21,2022
+Salta,Orán,1,Dengue,De 5 a 9 años,18,2022
+Salta,Orán,1,Dengue,Mayores de 65 años,14,2022
+Salta,Orán,1,Dengue,Mayores de 65 años,15,2022
+Salta,Orán,1,Dengue,Mayores de 65 años,18,2022
+Salta,Rivadavia,1,Dengue,De 10 a 14 años,15,2022
+Salta,Rivadavia,2,Dengue,De 10 a 14 años,17,2022
+Salta,Rivadavia,1,Dengue,De 15 a 19 años,14,2022
+Salta,Rivadavia,1,Dengue,De 15 a 19 años,17,2022
+Salta,Rivadavia,1,Dengue,De 15 a 19 años,18,2022
+Salta,Rivadavia,1,Dengue,De 15 a 19 años,19,2022
+Salta,Rivadavia,1,Dengue,De 15 a 19 años,22,2022
+Salta,Rivadavia,1,Dengue,De 2 a 4 años,17,2022
+Salta,Rivadavia,1,Dengue,De 20 a 24 años,15,2022
+Salta,Rivadavia,2,Dengue,De 20 a 24 años,16,2022
+Salta,Rivadavia,1,Dengue,De 25 a 34 años,12,2022
+Salta,Rivadavia,2,Dengue,De 25 a 34 años,15,2022
+Salta,Rivadavia,1,Dengue,De 25 a 34 años,17,2022
+Salta,Rivadavia,2,Dengue,De 25 a 34 años,19,2022
+Salta,Rivadavia,1,Dengue,De 25 a 34 años,20,2022
+Salta,Rivadavia,2,Dengue,De 35 a 44 años,14,2022
+Salta,Rivadavia,1,Dengue,De 35 a 44 años,16,2022
+Salta,Rivadavia,1,Dengue,De 35 a 44 años,17,2022
+Salta,Rivadavia,2,Dengue,De 35 a 44 años,18,2022
+Salta,Rivadavia,1,Dengue,De 45 a 65 años,12,2022
+Salta,Rivadavia,1,Dengue,De 45 a 65 años,14,2022
+Salta,Rivadavia,2,Dengue,De 45 a 65 años,15,2022
+Salta,Rivadavia,1,Dengue,De 45 a 65 años,16,2022
+Salta,Rivadavia,4,Dengue,De 45 a 65 años,17,2022
+Salta,Rivadavia,2,Dengue,De 45 a 65 años,18,2022
+Salta,Rivadavia,1,Dengue,De 45 a 65 años,22,2022
+Salta,Rivadavia,1,Dengue,Mayores de 65 años,11,2022
+Salta,Rivadavia,1,Dengue,Posneonato (29 hasta 365 dias),14,2022
+San Luis,La Capital,1,Dengue,De 25 a 34 años,8,2022
+Santa Fe,Castellanos,1,Dengue,De 10 a 14 años,19,2022
+Santa Fe,Castellanos,1,Dengue,De 15 a 19 años,11,2022
+Santa Fe,Castellanos,1,Dengue,De 20 a 24 años,12,2022
+Santa Fe,Castellanos,1,Dengue,De 20 a 24 años,15,2022
+Santa Fe,Castellanos,1,Dengue,De 25 a 34 años,10,2022
+Santa Fe,Castellanos,1,Dengue,De 25 a 34 años,11,2022
+Santa Fe,Castellanos,1,Dengue,De 25 a 34 años,20,2022
+Santa Fe,Castellanos,1,Dengue,De 35 a 44 años,11,2022
+Santa Fe,Castellanos,1,Dengue,De 35 a 44 años,13,2022
+Santa Fe,Castellanos,1,Dengue,De 35 a 44 años,14,2022
+Santa Fe,Castellanos,1,Dengue,De 35 a 44 años,18,2022
+Santa Fe,Castellanos,1,Dengue,De 35 a 44 años,19,2022
+Santa Fe,Castellanos,1,Dengue,De 35 a 44 años,20,2022
+Santa Fe,Castellanos,2,Dengue,De 45 a 65 años,9,2022
+Santa Fe,Castellanos,1,Dengue,De 45 a 65 años,10,2022
+Santa Fe,Castellanos,1,Dengue,De 45 a 65 años,13,2022
+Santa Fe,Castellanos,1,Dengue,De 45 a 65 años,14,2022
+Santa Fe,Castellanos,1,Dengue,Mayores de 65 años,18,2022
+Santa Fe,Constitución,1,Dengue,De 35 a 44 años,20,2022
+Santa Fe,La Capital,1,Dengue,Mayores de 65 años,17,2022
+Santa Fe,Rosario,1,Dengue,De 20 a 24 años,20,2022
+Santa Fe,Rosario,1,Dengue,De 25 a 34 años,5,2022
+Santa Fe,Rosario,1,Dengue,De 35 a 44 años,28,2022
+Santa Fe,San Lorenzo,1,Dengue,De 35 a 44 años,15,2022
+Santa Fe,San Lorenzo,1,Dengue,De 35 a 44 años,29,2022
+Santa Fe,San Lorenzo,1,Dengue,De 45 a 65 años,14,2022
+Santa Fe,San Martín,1,Dengue,De 25 a 34 años,13,2022
+Santiago del Estero,Banda,1,Dengue,De 35 a 44 años,14,2022
+Santiago del Estero,Banda,1,Dengue,De 35 a 44 años,16,2022
+Santiago del Estero,Banda,1,Dengue,De 45 a 65 años,6,2022
+Santiago del Estero,Capital,1,Dengue,De 35 a 44 años,14,2022
