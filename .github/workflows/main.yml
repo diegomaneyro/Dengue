@@ -26,4 +26,4 @@ jobs:
       run: pip install -r requirements.txt
 
     - name: Ejecutar script
-      run: python workflows/app.py
+      run: python app.py
