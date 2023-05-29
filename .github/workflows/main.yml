@@ -3,6 +3,9 @@ name: Ejecución cada 30 días
 on:
   schedule:
     - cron: "0 0 1 */1 *"
+  push:
+    branches:
+      - main
 
 jobs:
   build:
