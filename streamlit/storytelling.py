@@ -4,7 +4,7 @@ def pagina_storytelling():
     st.markdown("### Introduccion al proyecto ")
 
     #ruta local del video
-    video_path = '../recursos/storytelling.mp4'
+    video_path = 'storytelling.mp4'
 
     #mostrar video
     st.video(video_path)
