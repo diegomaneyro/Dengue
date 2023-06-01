@@ -80,7 +80,7 @@ Se seguirán todas las normativas y mejores prácticas en la gestión de datos s
         """)
         
         # Ruta del archivo PDF que deseas descargar
-        ruta_pdf = "../documentacion/documentacion.pdf"
+        ruta_pdf = "documentacion/documentacion.pdf"
 
         # Botón de descarga del archivo PDF
         with open(ruta_pdf, "rb") as file:
