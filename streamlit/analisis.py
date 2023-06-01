@@ -35,11 +35,7 @@ def pagina_analisis():
 
                 Semanas Epidemiologicas solo se admite en gráfico de Dispersión.
                 """)
-   
-    ruta_datos = "../datos/limpieza/eda/dengue-zika-clean.csv" 
-    
-    df = pd.read_csv(ruta_datos)  
-
+       
     #mostrar primeras filas del dataframe
     if st.button('Mostrar primeras filas del DataFrame'):
         st.dataframe(df.head())
