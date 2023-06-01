@@ -1,14 +1,12 @@
 import streamlit as st
 
-def pagina_storytelling():
-    st.markdown("### Introduccion al proyecto ")
-
+def pagina_storytelling():    
+    st.markdown("<h3>Dengue en Argentina 2022</h3>", unsafe_allow_html=True)
+    # Colocar una línea separadora personalizada
+    st.markdown("---")
     #ruta local del video
-<<<<<<< HEAD
-    video_path = 'storytelling.mp4'
-=======
-    video_path = 'recursos/storytelling.mp4'
->>>>>>> f49fb53b3760ac7f51c1822135360bf9d952da90
+
+    video_path = '../recursos/storytelling.mp4'
 
     #mostrar video
     st.video(video_path)
