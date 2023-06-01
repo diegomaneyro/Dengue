@@ -4,9 +4,11 @@
 
 
 ## Streamlit del Proyecto
-[WebApp](https://diegomaneyro-denguezikaargentina-streamlitstreamlit-app-oigkys.streamlit.app/)
+Mediante el framework de python Streamlit, presento los datos del proyectos y las graficas en un entorno de Integracion Continua.
 
 En este sitio web encontrara la documentacion y el desarrollo del proyecto, podrá manipular los datos visualizar los resultados y acceder al modelo de Machine Learning
+
+[WebApp](https://diegomaneyro-denguezikaargentina-streamlitstreamlit-app-oigkys.streamlit.app/)
 
 ## Problematica
 El dengue y el Zika son enfermedades transmitidas por mosquitos que representan importantes problemas de salud pública en muchas partes del mundo, incluyendo Argentina. Aquí tienes una breve descripción de cada una de estas enfermedades:
@@ -31,9 +33,9 @@ Este repositorio contiene el código y los recursos utilizados en el proyecto de
 
 ## Contenido
 
-- [Datos](#requisitos)
+- [Datos](https://github.com/diegomaneyro/DengueZikaArgentina/tree/main/datos)
 - [Documentacion](https://diegomaneyro-denguezikaargentina-documentacionapp-c2xrlg.streamlit.app/)
-- [Modelo](#modelo)
+- [Modelo](https://github.com/diegomaneyro/DengueZikaArgentina/tree/main/modelo)
 
 
 ## Deploy
@@ -43,7 +45,7 @@ Este repositorio contiene el código y los recursos utilizados en el proyecto de
 
 ## Objetivos del Proyecto
 
- - [ETL y EDA de los datasets](https://awesomeopensource.com/project/elangosundar/awesome-README-templates)
+ - [ETL y EDA de los datasets](https://github.com/diegomaneyro/DengueZikaArgentina/tree/main/datos/limpieza)
  - [Dashboar y reporte](https://github.com/matiassingers/awesome-readme)
  - [Modelo de Machine Learning](https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project)
 
