@@ -1,7 +1,7 @@
 import streamlit as st
 import pandas as pd
-import matplotlib.pyplot as plt
 import seaborn as sns
+import matplotlib.pyplot as plt
 import nbconvert
 from IPython.display import display, HTML
 
@@ -13,6 +13,7 @@ def pagina_analisis():
     st.markdown(' Casos de Dengue en Argentina 2022')
 
     #cargar datos desde csv
+
     ruta_datos = "../datos/limpieza/eda/dengue-zika-clean.csv"
     df = pd.read_csv(ruta_datos)
     
@@ -34,7 +35,30 @@ def pagina_analisis():
 
                 Semanas Epidemiologicas solo se admite en gráfico de Dispersión.
                 """)
-   
+       
+    #mostrar primeras filas del dataframe
+    if st.button('Mostrar primeras filas del DataFrame'):
+        st.dataframe(df.head())
+    
+    #mostrar grafica de casos por provincia
+    if st.button('Mostrar casos por provincia'):
+        casos_por_provincia = df.groupby('provincia')['cantidad_casos'].sum()
+        fig, ax = plt.subplots()
+        casos_por_provincia.plot(kind='bar', ax=ax)
+        ax.set_xlabel='Provincia'
+        ax.set_ylabel='Casos'
+        ax.set_title='Casos por Provincia'
+        st.pyplot(fig)
+
+    if st.button('Mostrar casos por edad'):
+        casos_por_franja_etaria = df.groupby('grupo_etario')['cantidad_casos'].sum()
+        fig, ax = plt.subplots()
+        casos_por_franja_etaria.plot(kind='bar', ax=ax)
+        ax.set_xlabel='Franja etaria'
+        ax.set_ylabel='Casos'
+        ax.set_title='Casos por Franja etaria'
+        st.pyplot(fig)
+
     
 
     # Crear el selector
