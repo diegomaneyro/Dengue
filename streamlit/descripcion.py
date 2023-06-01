@@ -8,7 +8,7 @@ def pagina_descripcion():
     
     # Insertar imagen
         
-    st.image("../recursos/dengue-2.jpg")
+    st.image("recursos/dengue-2.jpg")
     
     st.write("""     
 Este proyecto se enfoca en realizar un análisis de los datos, filtrando por zona y fecha los casos documentados de contagio, para luego ofrecer una prediccion para el año siguiente teniendo en cuenta la curva actual de casos.
