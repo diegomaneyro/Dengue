@@ -7,7 +7,7 @@ def pagina_storytelling():
     #ruta local del video
 
 
-    video_path = 'recursos/storytelling.mp4'
+    video_path = '../recursos/storytelling.mp4'
    video_path = 'https://drive.google.com/file/d/1_l-2gXw7g32gR2OnOsz19JuxKpOGRH5u/view?usp=drive_link'
 
 
