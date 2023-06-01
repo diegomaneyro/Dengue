@@ -1,8 +1,10 @@
 import streamlit as st
 
 def pagina_documentacion():
+    st.markdown("<h3>Dengue en Argentina 2022</h3>", unsafe_allow_html=True)
+    # Colocar una línea separadora personalizada
+    st.markdown("---")
     
-    st.markdown("### Descripción del Proyecto")
     st.write("""
 
 El proyecto "Dengue y Zika en Argentina" tiene como objetivo recopilar, analizar los casos de dengue y zika registrados en Argentina.
@@ -65,38 +67,54 @@ Consideraciones Éticas y de Privacidad
 Durante el desarrollo del proyecto, se garantizará el cumplimiento de las regulaciones éticas y de privacidad.
 las fuentes de datos son oficiales y se respetará las regulaciones sobre el manejo de informacion publica. 
 Se seguirán todas las normativas y mejores prácticas en la gestión de datos sensibles.
-
-
-    """)
-    st.markdown("#### Licencia")
-    st.write("""
-
-Este proyecto se distribuye bajo la Licencia MIT. Puedes encontrar los términos y condiciones de la licencia en este enlace 
-Licenica MIT
-
-https://opensource.org/license/mit/ 
-
-
-    """)
-    st.markdown("#### Documentación PDF")
-    st.write("""Aquí pueden descargar este archivo en formato pdf
-    """)
-    # Botón de descarga del archivo PDF
-    if st.button("Descargar Documentacion"):
-        with open(ruta_pdf, "rb") as f:
-            bytes_pdf = f.read()
-        st.download_button(label="Iniciar descaga", data=bytes_pdf, file_name="Documentacion.pdf", mime="application/pdf")
+""")
+# Colocar una línea separadora personalizada
+    st.markdown("---")
     
-    st.markdown("#### Repositorio")
-    st.write("""
-    Aquí encontraraa el link al repositorio de este proyecto
-    """)
-    # Ruta del archivo PDF que deseas descargar
-    ruta_pdf = "../documentacion/documentacion.pdf"
+    #Crear columnas
+    col1, col2 = st.columns(2)
 
+    #Agregar elementos a las columnas
+    with col1:        
+        st.write("""Aquí pueden descargar este archivo en formato pdf
+        """)
+        
+        # Ruta del archivo PDF que deseas descargar
+        ruta_pdf = "../documentacion/documentacion.pdf"
+
+        # Botón de descarga del archivo PDF
+        with open(ruta_pdf, "rb") as file:
+            btn = st.download_button(
+                label="Download documentacion",
+                data=file,
+                file_name="documentacion.pdf",
+                mime="application/pdf"
+            )
+    with col2:        
+        st.markdown("#### Repositorio")
+        st.write("""
+        Aquí encontraraa el link al repositorio de este proyecto
+        """)
+        # Ruta del archivo PDF que deseas descargar
+        ruta_pdf = "../documentacion/documentacion.pdf"
+
+        
+        # URL del repositorio
+        repo_url = "https://github.com/diegomaneyro/DengueZikaArgentina"
     
-    # URL del repositorio
-    repo_url = "https://github.com/diegomaneyro/DengueZikaArgentina"
-   
-    # Mostrar el enlace al repositorio
-    st.markdown(f"[Enlace al repositorio]({repo_url})")
+        # Mostrar el enlace al repositorio
+        st.markdown(f"[Enlace al repositorio]({repo_url})")
+
+        
+        
+        st.markdown("#### Licencia")
+        
+        st.write("""
+        Este proyecto se distribuye bajo la Licencia MIT. Puedes encontrar los términos y condiciones de la licencia en este enlace 
+        Licenica MIT
+        """)
+
+        Licenica_url = "https://opensource.org/license/mit/"
+        
+        #Licencia
+        st.markdown(f'[Enlace a la licencia]({Licenica_url})')
