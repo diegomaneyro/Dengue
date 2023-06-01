@@ -7,3 +7,5 @@ seaborn
 geopy
 folium
 Image
+nbconvert
+IPython
