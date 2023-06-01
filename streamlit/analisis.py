@@ -1,6 +1,5 @@
 import streamlit as st
 import pandas as pd
-import seaborn as sns
 import matplotlib.pyplot as plt
 
 def pagina_analisis():
@@ -12,7 +11,7 @@ def pagina_analisis():
 
     #cargar datos desde csv
 
-    ruta_datos = "../datos/limpieza/eda/dengue-zika-clean.csv"
+    ruta_datos = "datos/limpieza/eda/dengue-zika-clean.csv"
     df = pd.read_csv(ruta_datos)
     
     #mostrar primeras filas del dataframe

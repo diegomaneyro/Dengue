@@ -5,7 +5,7 @@ def pagina_storytelling():
     # Colocar una línea separadora personalizada
     st.markdown("---")
     #ruta local del video
-    
+
     video_path = 'https://drive.google.com/file/d/1_l-2gXw7g32gR2OnOsz19JuxKpOGRH5u/view?usp=drive_link'
 
 
