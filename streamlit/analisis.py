@@ -37,7 +37,9 @@ def pagina_analisis():
     st.sidebar.title("Selector de Gráficas")
     columna_elegida = st.sidebar.selectbox("Selecciona una columna", ['provincia','localidad','grupo_etario','semanas_epidemiologicas'])
     grafica_elegida = st.sidebar.selectbox("Selecciona una gráfica", ['lineplot', 'barras', 'dispersión'])
-
+    
+    ruta_datos = "datos/limpieza/eda/dengue-zika-clean.csv"
+    df = pd.read_csv(ruta_datos)
     # Generar la gráfica seleccionada
     if grafica_elegida == 'lineplot':
         if columna_elegida in ['provincia', 'localidad', 'grupo_etario']:
