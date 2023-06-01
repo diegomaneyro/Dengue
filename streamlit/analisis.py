@@ -1,8 +1,6 @@
 import streamlit as st
 import pandas as pd
 import matplotlib.pyplot as plt
-import nbconvert
-from IPython.display import display, HTML
 
 def pagina_analisis():
     st.markdown("<h3>Dengue en Argentina 2022</h3>", unsafe_allow_html=True)
