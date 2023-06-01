@@ -3,7 +3,7 @@ numpy
 requests
 streamlit
 matplotlib
-seaborn
+seaborn==0.9
 geopy
 folium
 Image
