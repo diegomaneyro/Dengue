@@ -96,7 +96,7 @@ Se seguirán todas las normativas y mejores prácticas en la gestión de datos s
         Aquí encontraraa el link al repositorio de este proyecto
         """)
         # Ruta del archivo PDF que deseas descargar
-        ruta_pdf = "../documentacion/documentacion.pdf"
+        ruta_pdf = "documentacion/documentacion.pdf"
 
         
         # URL del repositorio
