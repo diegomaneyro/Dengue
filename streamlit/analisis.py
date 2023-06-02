@@ -46,7 +46,7 @@ def pagina_analisis():
         if columna_elegida in ['provincia', 'localidad', 'grupo_etario']:
             fig, ax = plt.subplots()
             sns.lineplot(x=columna_elegida, y='cantidad_casos', data=df)
-            plt.xticks(rotation=90)  # Rotación de 90 grados en las etiquetas del eje x        
+            plt.xticks(rotation=45)  # Rotación de 90 grados en las etiquetas del eje x        
             st.pyplot(fig)
         else:
             st.error("La columna seleccionada no es válida para esta gráfica.")
@@ -54,7 +54,7 @@ def pagina_analisis():
         if columna_elegida in ['provincia', 'localidad', 'grupo_etario']:
             fig, ax = plt.subplots()
             sns.barplot(x=columna_elegida, y='cantidad_casos', data=df)
-            plt.xticks(rotation=90)  # Rotación de 90 grados en las etiquetas del eje x   
+            plt.xticks(rotation=45)  # Rotación de 90 grados en las etiquetas del eje x   
             st.pyplot(fig)
         else:
             st.error("La columna seleccionada no es válida para esta gráfica.")
@@ -62,7 +62,7 @@ def pagina_analisis():
         if columna_elegida in ['provincia', 'localidad', 'grupo_etario', 'semanas_epidemiologicas']:
             fig, ax = plt.subplots()
             sns.scatterplot(x=columna_elegida, y='cantidad_casos', data=df)
-            plt.xticks(rotation=90)  # Rotación de 90 grados en las etiquetas del eje x
+            plt.xticks(rotation=45)  # Rotación de 90 grados en las etiquetas del eje x
             st.pyplot(fig)
         else:
             st.error("La columna seleccionada no es válida para esta gráfica.")
