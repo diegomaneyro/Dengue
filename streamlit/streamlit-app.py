@@ -1,5 +1,5 @@
 """
-Streamlit de documentacion para el projecto de Dengue y Zika
+Streamlit de documentacion para el projecto de Dengue 
 en Argentinma desde el año 2022 
 """
 import streamlit as st
@@ -18,8 +18,6 @@ def main():
         descripcion.pagina_descripcion()
     elif page == "Documentación":
         documentacion.pagina_documentacion()
-    elif page == "Storytelling":
-        storytelling.pagina_storytelling()
     else:
         analisis.pagina_analisis()
 
