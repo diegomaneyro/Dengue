@@ -11,9 +11,9 @@ En este sitio web encontrara la documentacion y el desarrollo del proyecto, podr
 [WebApp](https://diegomaneyro-dengue2022argentina-streamlitstreamlit-app-s1ebaa.streamlit.app/)
 
 ## Problematica
-El dengue es una enfermedad transmitida por mosquitos que representan importantes problemas de salud pública en muchas partes del mundo, incluyendo Argentina. Aquí tienes una breve descripción de esta enfermedad:
 
-- Dengue: El dengue es una enfermedad viral transmitida por mosquitos del género Aedes, principalmente Aedes aegypti. Es endémico en áreas tropicales y subtropicales, y puede causar síntomas que van desde una fiebre leve hasta formas más graves que pueden llevar a complicaciones potencialmente mortales, como el dengue grave o el dengue hemorrágico. El dengue ha experimentado un aumento significativo en los últimos años y se considera un problema de salud pública en Argentina.
+* El dengue es una enfermedad transmitida por mosquitos que representan importantes problemas de salud pública en muchas partes del mundo, incluyendo Argentina.
+Esta enfermedad viral es transmitida por mosquitos del género Aedes, principalmente Aedes aegypti. Es endémico en áreas tropicales y subtropicales, y puede causar síntomas que van desde una fiebre leve hasta formas más graves que pueden llevar a complicaciones potencialmente mortales, como el dengue grave o el dengue hemorrágico. El dengue ha experimentado un aumento significativo en los últimos años y se considera un problema de salud pública en Argentina.
 
 
 ## Origen de los datos
