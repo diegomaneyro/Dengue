@@ -6,13 +6,12 @@ import streamlit as st
 import descripcion
 import documentacion
 import analisis
-import storytelling
 
 def main():
     #Panel lateral
     st.sidebar.title("Menu")
 
-    page = st.sidebar.radio("Selecciona una página", ("Introducción","Storytelling","Análisis de Datos","Documentación"))
+    page = st.sidebar.radio("Selecciona una página", ("Introducción","Análisis de Datos","Documentación"))
     
     # Muestra la página correspondiente según la selección
     if page == "Introducción":
