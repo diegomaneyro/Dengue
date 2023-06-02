@@ -8,7 +8,7 @@ Mediante el framework de python Streamlit, presento los datos del proyectos y la
 
 En este sitio web encontrara la documentacion y el desarrollo del proyecto, podrá manipular los datos visualizar los resultados 
 
-[WebApp](https://diegomaneyro-denguezikaargentina-streamlitstreamlit-app-oigkys.streamlit.app/)
+[WebApp](https://diegomaneyro-dengue2022argentina-streamlitstreamlit-app-s1ebaa.streamlit.app/)
 
 ## Problematica
 El dengue es una enfermedad transmitida por mosquitos que representan importantes problemas de salud pública en muchas partes del mundo, incluyendo Argentina. Aquí tienes una breve descripción de esta enfermedad:
