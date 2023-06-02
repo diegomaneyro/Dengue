@@ -12,7 +12,7 @@ def pagina_analisis():
 
     #cargar datos desde csv
 
-    ruta_datos = "datos/limpieza/eda/dengue-zika-clean.csv"
+    ruta_datos = "datos/limpieza/eda/dengue-clean.csv"
     df = pd.read_csv(ruta_datos)
     
     #mostrar primeras filas del dataframe
@@ -39,7 +39,7 @@ def pagina_analisis():
     columna_elegida = st.sidebar.selectbox("Selecciona una columna", ['provincia','localidad','grupo_etario','semanas_epidemiologicas'])
     grafica_elegida = st.sidebar.selectbox("Selecciona una gráfica", ['lineplot', 'barras', 'dispersión'])
     
-    ruta_datos = "datos/limpieza/eda/dengue-zika-clean.csv"
+    ruta_datos = "datos/limpieza/eda/dengue-clean.csv"
     df = pd.read_csv(ruta_datos)
     # Generar la gráfica seleccionada
     if grafica_elegida == 'lineplot':
