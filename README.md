@@ -21,17 +21,15 @@ Esta enfermedad viral es transmitida por mosquitos del género Aedes, principalm
 
 [datos.gob.ar](https://www.datos.gob.ar/ca/)
 
-## Repositorio
+## Descripcion
 Este repositorio contiene el código y los recursos utilizados en el proyecto de investigación sobre la incidencia del dengue en Argentina. El objetivo de este proyecto es analizar los datos epidemiológicos y geoespaciales para comprender la propagación y los factores de riesgo de esta enfermedad en el país.
 
-## Demo
+## Repositorio
 * Readme: descripcion del proyecto
 * Datos: Ubicacion de los datos originales descargados desde la web, tambien los archivos transformados y el analisis exploratorio
 * Streamlit: Deploy de la Demo, uso el framework Streamlit para las visualizaciones tanto de los datos transformados como las distintas graficas construidas.
 * Recuros: archivos multimedia del proyecto
  
-
-
 ## Deploy
 
 - Streamlit
