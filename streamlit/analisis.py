@@ -54,7 +54,11 @@ def pagina_analisis():
         if columna_elegida in ['provincia', 'localidad', 'grupo_etario']:
             fig, ax = plt.subplots()
             sns.barplot(x=columna_elegida, y='cantidad_casos', data=df)
-            plt.xticks(rotation=90)  # Rotación de 90 grados en las etiquetas del eje x        
+            plt.xticks(rotation=90)  # Rotación de 90 grados en las etiquetas del eje x   
+            # Agregar etiquetas con los valores individuales de cada columna
+            for x, y in zip(conteo_casos.index, conteo_casos.values):
+            ax.text(x, y, str(y), ha='center', va='bottom')
+
             st.pyplot(fig)
         else:
             st.error("La columna seleccionada no es válida para esta gráfica.")
