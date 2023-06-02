@@ -28,7 +28,7 @@ Este repositorio contiene el código y los recursos utilizados en el proyecto de
 
 - [Datos](https://github.com/diegomaneyro/Dengue2022Argentina/tree/main/datos)
 - [Documentacion](https://diegomaneyro-dengue2022argentina-documentacionapp-c2xrlg.streamlit.app/)
-- [Modelo](https://github.com/diegomaneyro/Dengue2022Argentina/tree/main/modelo)
+- [Streamlit](https://github.com/diegomaneyro/Dengue2022Argentina/tree/main/streamlit)
 
 
 ## Deploy
@@ -36,11 +36,6 @@ Este repositorio contiene el código y los recursos utilizados en el proyecto de
 - Streamlit
 - Bibliotecas de Python especificadas en el archivo `requirements.txt`
 
-## Objetivos del Proyecto
-
- - [ETL y EDA de los datasets](https://github.com/diegomaneyro/Dengue2022Argentina/tree/main/datos/limpieza)
- - [Dashboar y reporte](https://github.com/matiassingers/awesome-readme)
- - [Modelo de Machine Learning](https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project)
 
 ## Licencia
 
