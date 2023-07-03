@@ -4,7 +4,7 @@
 
 
 ## Streamlit del Proyecto
-Mediante el framework de python Streamlit, presento los datos del proyectos y las graficas en un entorno de Integracion Continua.
+Mediante el framework Streamlit, presento los datos del proyecto y las gráficas.
 
 En este sitio web encontrara la documentacion y el desarrollo del proyecto, podrá manipular los datos visualizar los resultados 
 
@@ -21,12 +21,12 @@ Esta enfermedad viral es transmitida por mosquitos del género Aedes, principalm
 
 [datos.gob.ar](https://www.datos.gob.ar/ca/)
 
-## Descripcion
+## Descripción
 Este repositorio contiene el código y los recursos utilizados en el proyecto de investigación sobre la incidencia del dengue en Argentina. El objetivo de este proyecto es analizar los datos epidemiológicos y geoespaciales para comprender la propagación y los factores de riesgo de esta enfermedad en el país.
 
 ## Repositorio
-* Readme: descripcion del proyecto
-* Datos: Ubicacion de los datos originales descargados desde la web, tambien los archivos transformados y el analisis exploratorio
+* Readme: Descripcion del proyecto
+* Datos: Ubicación de los datos originales descargados desde la web, tambien los archivos transformados y el análisis exploratorio
 * Streamlit: Deploy de la Demo, uso el framework Streamlit para las visualizaciones tanto de los datos transformados como las distintas graficas construidas.
 * Recuros: archivos multimedia del proyecto
  
