@@ -1,14 +1,23 @@
- <h1 style="text-align: center; font-size: 36px;">Dengue 2022 en Argentina</h1>
 
-<img src="recursos/dengue-1.jpg" alt="Texto alternativo" width="300" height="200">
+# <h1 align=center> **Dengue 2022 en Argentina** </h1>
+<p align="center">
+<img src="recursos/dengue-1.jpg"  height=300>
+</p>
 
+# Autor
+
++ diego-maneyro [linkedin](https://www.linkedin.com/in/diego-maneyro/)
+
++ E-mail diegomaneyro@gmail.com
 
 ## Streamlit del Proyecto
 Mediante el framework Streamlit, presento los datos del proyecto y las gráficas.
 
 En este sitio web encontrara la documentacion y el desarrollo del proyecto, podrá manipular los datos visualizar los resultados 
 
-[WebApp](https://diegomaneyro-dengue2022argentina-streamlitstreamlit-app-s1ebaa.streamlit.app/)
+[WebApp](https://diegomaneyro-denguezikaargentina-streamlitstreamlit-app-oigkys.streamlit.app/)
+
+![](https://github.com/diegomaneyro/DengueZikaArgentina/blob/main/recursos/CapturawebApp.png)
 
 ## Problematica
 
