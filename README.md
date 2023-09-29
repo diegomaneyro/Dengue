@@ -15,7 +15,7 @@ Mediante el framework Streamlit, presento los datos del proyecto y las gráficas
 
 En este sitio web encontrara la documentacion y el desarrollo del proyecto, podrá manipular los datos visualizar los resultados 
 
-[Demo WebApp](https://diegomaneyro-denguezikaargentina-streamlitstreamlit-app-oigkys.streamlit.app/)
+[Demo WebApp](https://dengue2022argentina-axqxoqbn7ferhfjbnmuvls.streamlit.app/)
 
 
 ## Problematica
